@@ -12,3 +12,13 @@ Du må ha installert:
 - [pnpm](https://pnpm.io/)
 
 Du kan sjekke at de er installert med `node -v` og `pnpm -v`.
+
+## Installasjon
+
+Klon repositoryet, gå inn i mappen og installer avhengighetene:
+
+```bash
+git clone https://github.com/sigurdelvestad/wes120v-obligatorisk-oppgave-1.git
+cd wes120v-obligatorisk-oppgave-1
+pnpm install
+```
