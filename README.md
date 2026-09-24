@@ -22,3 +22,13 @@ git clone https://github.com/sigurdelvestad/wes120v-obligatorisk-oppgave-1.git
 cd wes120v-obligatorisk-oppgave-1
 pnpm install
 ```
+
+## Oppstart
+
+Start utviklingsserveren:
+
+```bash
+pnpm dev
+```
+
+Vite viser en lokal adresse i terminalen, vanligvis `http://localhost:5173/`. Åpne den adressen i nettleseren for å se siden. Stopp serveren med `Ctrl + C`.
